@@ -1,4 +1,3 @@
-<!--내용 부분-->
 <h1 align="center">👋 Hello, I'm Siha! 👋</h1>
 
 <h3 align="center">✨ About Me ✨</h3>
@@ -51,14 +50,11 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  </a>
   <a href="https://www.linkedin.com/in/%EC%8B%9C%ED%95%98-%EC%9D%B4-883a4b328/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp
-  </a>
   <a href="mailto:sihari1115@gmail.com">
     <img
       src="https://img.shields.io/badge/sihari1115@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
 </div>
 
 
