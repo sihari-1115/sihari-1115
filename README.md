@@ -6,7 +6,6 @@
   My goal is to implement AI technologies that deliver optimal performance even in constrained environments.
 </p>
 
-
 ---
 
 <h3 align="center">✨ Tech Stack ✨</h3>
